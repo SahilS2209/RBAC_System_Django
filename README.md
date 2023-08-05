@@ -67,9 +67,9 @@ python manage.py migrate
 
 python manage.py runserver
 
-### There are 11 apis created for this
+**There are 11 apis created for this
 
-### You can test the apis in Postman
+You can test the apis in Postman**
 
 
 
