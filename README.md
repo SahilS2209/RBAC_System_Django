@@ -1,4 +1,4 @@
-This is a Role-Based Access Control (RBAC) system built using Django to manage user permissions and access control for your web application
+This is a **Role-Based Access Control (RBAC)** system built using Django to manage user permissions and access control for your web application
 
 RBAC allows you to define roles and assign permissions to those roles, enabling a fine-grained control over what users can do within the system
 
@@ -67,9 +67,9 @@ python manage.py migrate
 
 python manage.py runserver
 
-## There are 11 apis created for this
+### There are 11 apis created for this
 
-## You can test the apis in Postman
+### You can test the apis in Postman
 
 
 
