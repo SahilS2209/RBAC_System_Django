@@ -9,7 +9,7 @@ There are 3 roles:
 
 These are the functionalities:
 
-1. Admin: 
+1. Admin: \
    Add user \
    Update user \
    Delete user \
@@ -20,13 +20,13 @@ These are the functionalities:
    View apis \
    Map user to apis 
 
-2. User: 
-   Add api 
-   Update api 
-   Delete api 
+2. User: \
+   Add api \
+   Update api \
+   Delete api \
    View mapped apis 
 
-3. Viewer: 
+3. Viewer: \
    View all apis
 
 When the user is authenticated(logged in), a JWT token is generated and it is saved in the database(Postgresql)
