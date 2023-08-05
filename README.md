@@ -10,14 +10,14 @@ There are 3 roles:
 These are the functionalities:
 
 1. Admin: 
-   Add user 
-   Update user 
-   Delete user 
-   View users 
-   Add api 
-   Update api 
-   Delete api 
-   View apis 
+   Add user \
+   Update user \
+   Delete user \
+   View users \
+   Add api \
+   Update api \ 
+   Delete api \
+   View apis \
    Map user to apis 
 
 2. User: 
