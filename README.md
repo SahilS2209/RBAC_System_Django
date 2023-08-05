@@ -15,7 +15,7 @@ These are the functionalities:
    Delete user \
    View users \
    Add api \
-   Update api \ 
+   Update api \
    Delete api \
    View apis \
    Map user to apis 
